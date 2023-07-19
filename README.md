@@ -20,3 +20,6 @@ free international calling
 
 ##cleanhub images link
 https://we.tl/t-rdYQP2C6UY
+
+##Ptproperty Live Link
+https://www.ptpropertyservicesltd.co.nz/
