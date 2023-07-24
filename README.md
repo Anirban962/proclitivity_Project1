@@ -33,10 +33,29 @@ https://proclivitydemo.co.in/demos/cleanhub-services/development/
 ##cleanhub wp complete file
 
 
-
 ##decora ecoomerce site link:
 https://proclivitydemo.co.in/demos/decora-living/html/
 
 
 ##frannys landscaping
 https://proclivitydemo.co.in/demos/franny-landscaping/development/
+
+
+##decora-woocommerce ref links---
+1.https://avada.io/woocommerce/docs/create-product-search.html
+2.https://stackoverflow.com/questions/33014611/woocommerce-search-products-by-id
+3.https://stackoverflow.com/questions/40763207/woocommerce-custom-category-search
+4.https://codex.wordpress.org/Customizing_the_Login_Form
+5.https://themeisle.com/blog/wordpress-login-plugins/#gref
+
+
+
+
+
+
+
+
+
+
+
+
