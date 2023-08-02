@@ -50,6 +50,10 @@ https://proclivitydemo.co.in/demos/franny-landscaping/development/
 
 
 
+##franny's full file link---
+https://we.tl/t-R8FnbqgRWR
+
+
 
 
 
